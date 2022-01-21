@@ -1,0 +1,51 @@
+{
+    "name": "midst20-admin",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@progress/kendo-data-query": "^1.5.4",
+        "@progress/kendo-drawing": "^1.8.1",
+        "@progress/kendo-react-animation": "^3.14.0",
+        "@progress/kendo-react-data-tools": "^3.15.0",
+        "@progress/kendo-react-dateinputs": "^3.15.0",
+        "@progress/kendo-react-dialogs": "^3.14.0",
+        "@progress/kendo-react-dropdowns": "^3.15.0",
+        "@progress/kendo-react-grid": "^3.15.0",
+        "@progress/kendo-react-inputs": "^3.15.0",
+        "@progress/kendo-react-intl": "^3.15.0",
+        "@progress/kendo-theme-bootstrap": "^4.16.2",
+        "@progress/kendo-theme-default": "^4.21.0",
+        "@progress/kendo-theme-material": "^3.15.2",
+        "axios": "^0.19.2",
+        "bootstrap": "4.1.3",
+        "chart.js": "2.7.2",
+        "history": "4.7.2",
+        "jwt-decode": "^2.2.0",
+        "node-sass": "^4.12.0",
+        "react": "^16.13.1",
+        "react-chartjs-2": "^2.7.4",
+        "react-dom": "^16.13.1",
+        "react-perfect-scrollbar": "1.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.1",
+        "reactstrap": "6.4.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

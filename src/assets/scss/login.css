@@ -1,0 +1,42 @@
+.login{
+    background-size: cover;
+    text-align: center;
+}
+.login-box{
+    width: 400px;
+    margin: auto;
+    /* padding-right:30px; */
+}
+.login Label{
+    color: white;
+    font-size: 18px;
+}
+.login h1{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 42px;
+}
+.login .col-4{
+    text-align: right;
+    margin: auto;
+}
+.login .k-textbox{
+    font-size: 18px;
+}
+.login .k-button{
+    font-size: 18px;
+    background-color: rgb(237, 125, 49);
+    color: #fff;
+    background-image: none;
+}
+.login .k-button:hover{
+    background-color: rgb(233, 165, 120);
+    color: #fff;
+    background-image: none;
+}
+.login-part{
+    padding: 50px 20px;
+    /* background-color: black; */
+    border-radius: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.4);
+}
